@@ -1,0 +1,45 @@
+🍥......Bot Iniciado UwU......🍣
+Bienvenido al bot de descarga 7.1.0
+
+👧🏻Hola Onichan soy una linda Loli que te ayudará a descargar gratis :)
+
+💡 Como Descargar
+
+1. Envía el enlace directo o comparte desde Telegram el archivo que quieres descargar usando el bot @DirectLinkGeneratorbot  o @tg_file_link_bot.
+
+2. Ya terminada la descarga usar el TXT iniciar seción con la cuenta que se le dio y acceder a los planes de aprendizaje.
+
+3. Los comando para configurar el bot son:
+
+/start ⛩Iniciar Bot🍥
+
+/tutorial 📖Abrir el Tutorial
+
+/myuser 👤Información 
+
+/files 📋Archivos subidos
+
+/dir 📂Carpeta a subir
+
+/host ⚙️Configura URL de la nube ☁️
+
+/account ⚙️Configura (usuario,contraseña)
+
+/repoid 📝Repo ID (Dejan en el #4)
+
+/zips ⚙️Configura Tamaños de los archivos📦
+
+/proxy 💡Activa Proxy (Más velocidad)
+
+/uptype ⏫Cambia subda de los archivos (evidence,draft,blog,calendar)
+
+/cloud ☁️Cambia tipo (moodle o cloud)
+
+🚫Comandos de Administrador UwU🚫
+
+/adduser ✳️Permite acceso a un usuario
+/addadmin ✳️Poner de admin a un usuario
+/banuser 🚫Ban vete la tu casa chaval
+/getdb 🗂Obtener base de datos
+
+✳️Contactar con el admin en caso de problemas✳️
